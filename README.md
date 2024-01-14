@@ -1,6 +1,5 @@
 DEPLOYED ON VERCEL => https://next-js-travel-agency-armans-projects-c9523aa4.vercel.app/
 
-<img src="https://raw.githubusercontent.com/SarkissArmaniUS/next.js-Travel_Agency_Deployed/main/assets/63bd0897-aa80-455d-91e9-21fb8dd38c49" alt="Travel_GitHub_1" width="300" height="200">
 ![Travel_GitHub_1](https://github.com/SarkissArmaniUS/next.js-Travel_Agency_Deployed/assets/97789627/63bd0897-aa80-455d-91e9-21fb8dd38c49)
 ![Travel_GitHub_2](https://github.com/SarkissArmaniUS/next.js-Travel_Agency_Deployed/assets/97789627/c1f56d2c-cecb-4bcc-a6df-eaff208557b0)
 
