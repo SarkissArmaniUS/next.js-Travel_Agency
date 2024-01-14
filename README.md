@@ -1,9 +1,5 @@
 DEPLOYED ON VERCEL => https://next-js-travel-agency-armans-projects-c9523aa4.vercel.app/
 
-<div style="width: 300px; height: 200px;">
-  ![Travel_GitHub_1](https://github.com/SarkissArmaniUS/next.js-Travel_Agency_Deployed/blob/main/assets/63bd0897-aa80-455d-91e9-21fb8dd38c49)
-</div>
-
 # 🌍 Next.js Travel Agency Website
 
 Explore the world with our Travel Agency Website built on Next.js, a React framework. This dynamic web application provides a comprehensive guide to travel destinations, featuring an intuitive interface and captivating visuals.
