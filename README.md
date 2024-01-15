@@ -28,3 +28,7 @@ Explore the world with our Travel Agency Website built on Next.js, a React frame
 ## 🌟 Experience the Journey
 
 Embark on a virtual journey with our Travel Agency Website. Discover new destinations, read insightful guides, and plan your next adventure with confidence.
+
+## 📷 Screenshots
+
+---
