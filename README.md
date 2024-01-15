@@ -32,3 +32,9 @@ Embark on a virtual journey with our Travel Agency Website. Discover new destina
 ## 📷 Screenshots
 
 ---
+
+![screenshot-Travel_App_1](https://github.com/SarkissArmaniUS/next.js-Travel_Agency_Deployed/assets/97789627/0996749b-4213-4968-bf7f-c41d7d4b9de7)
+
+---
+
+![screenshot-Travel_App_2](https://github.com/SarkissArmaniUS/next.js-Travel_Agency_Deployed/assets/97789627/c611eea1-abf0-4101-8283-0d428a9f2e59)
